@@ -1,38 +1,19 @@
 ## Hi... Welcome ❤️
 
 WEBSITE UNDER CONSTRUCTION 😉
-
-
+ ![photo_1](https://user-images.githubusercontent.com/86893005/124365987-b9b11880-dc69-11eb-99c3-9f37b6622698.jpg)
 
 ### BIO:
-
 I'm young Developer
 
-
-
-
 # All
-## Is
-### Well
+##     Is
+###        Well
 
+ _Ignore Negativities_ 
 
+[About me](www.campsite.bio/pravin_viswa)
 
+### Support or Contact:
 
-
-
-
-**IGNORE**  _Negativities_ 
-
-[Link](www.google.com) and ![Image](src)
-```
-
-For more details see [GitHub Flavore
-![photo_1](https://user-images.githubusercontent.com/86893005/124365987-b9b11880-dc69-11eb-99c3-9f37b6622698.jpg)
-
-
-
-
-
-### Support or Contact
-
-INSTAGRAM: Pravin_Viswa
+[Instagram](www.instagram.com/pravin__viswa) 
