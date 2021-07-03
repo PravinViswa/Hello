@@ -12,8 +12,8 @@ I'm young Developer
 
  _Ignore Negativities_ 
 
-[About me](www.campsite.bio/pravin_viswa)
+[About me](http://www.campsite.bio/pravin_viswa)
 
 ### Support or Contact:
 
-[Instagram](www.instagram.com/pravin__viswa) 
+[Instagram](http://www.instagram.com/pravin__viswa) 
