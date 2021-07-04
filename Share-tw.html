@@ -6,7 +6,7 @@
 
   <meta charset="UTF-8">
 
-  <title>Share to Twitter app</title>
+  <title>Share to BGMI app</title>
 
 </head>
 
@@ -20,7 +20,7 @@ var isAndroid = navigator.userAgent.toLowerCase().indexOf('android') !== -1;
 
 var shareText = encodeURIComponent('Webからアプリが開いたよ！！ @leader22++ https://github.com/leader22/app-opener') + ' ';
 
-var schemeStr = (isAndroid) ? 'intent://post?message=' + shareText + '#Intent;scheme=twitter;package=com.twitter.android;end;'
+var schemeStr = (isAndroid) ? 'intent://post?message=' + shareText + '#Intent;scheme=BGMI;package=com.pubg.imobile;end;'
 
                             : 'twitter://post?message=' + shareText;
 
