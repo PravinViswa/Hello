@@ -1,18 +1,13 @@
-$ npm install web-open-app
-
-$ yarn add web-open-app
-import OpenApp from web-open-app;
-
 openapp = new OpenApp({
-  // scheme地址
-  scheme: "",
-  // intent地址
-  intent: "",
+  
+  scheme: "pubg",
+  
+  intent: "jio",
   // android applink url or ios universal links url
-  applink: "",
-  // 复制到剪贴板数据
+  applink: "com.pubg.imobile",
+
   copyText: "",
-  // 唤起app状态回调
+  
   callback: function (status, msg) {
     console.log("status: ", status, "  msg: ", msg);
   }
