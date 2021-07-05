@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>Share to Twitter app</title>
+</head>
+<body>
+<script src="app-opener/dist/app-opener.min.js"></script>
+<script>
+var isAndroid = navigator.userAgent.toLowerCase().indexOf('android') !== -1;
+var shareText = encodeURIComponent('Webからアプリが開いたよ！！ @leader22++ https://github.com/leader22/app-opener') + ' ';
+var schemeStr = (isAndroid) ? 'intent://post?message=' + shareText + '#Intent;scheme=twitter;package=com.twitter.android;end;'
+                            : 'twitter://post?message=' + shareText;
+new AppOpener({
+    schemeStr: schemeStr,
+    escapeUrl: 'index.html'
+});
+</script>
+</body>
+</html>
